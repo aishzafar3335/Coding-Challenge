@@ -37,9 +37,14 @@ To Run :
     http://localhost:8080/swagger-ui.html#/rewards-com.assessment.reward.Reward.controller/getAllTransactionsUsingGET : To get all Transactions.
 
 
-API Screenshots:
+Screenshots:
+
+
 ![PHOTO-2023-01-23-07-22-59](https://user-images.githubusercontent.com/51256245/214118282-c33f0491-3adf-4f54-be3f-c07c1d7531a2.jpg)
 ![PHOTO-2023-01-23-07-22-46](https://user-images.githubusercontent.com/51256245/214118284-406fca90-c05b-4d55-bc45-ac41fbef1529.jpg)
 ![PHOTO-2023-01-23-07-22-39](https://user-images.githubusercontent.com/51256245/214118287-e0536d88-96b2-4c6a-8885-17eac7845d68.jpg)
+![PHOTO-2023-01-24-11-54-41 (1)](https://user-images.githubusercontent.com/51256245/214432261-fcd0bcc9-c5e2-41aa-9cc1-97cc67a44b9f.jpg)
+
+
     
 
